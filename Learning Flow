@@ -1,0 +1,35 @@
+**/BASIC/**
+
+Intro
+NoSQL Vs SQL
+JSON Vs BSON
+Managing DB & Collection
+Advanced CRUD Operations
+Comparison Operators
+Cursor in Mongo DB
+Logical Operators
+$expr & Element Operator
+Projection & Relationship
+Embedded Documents
+
+
+**/ADVANCED/**
+
+Into to Indexes
+Creating and Managing Index
+Understanding the Aggregation Framework
+    Intro to it
+    Basic Aggregation Operations
+    Combining Aggregation Stages
+    Aggregation Operators and Exxpressions
+Pipeline Stages
+    ($match, $project, $group, $sort, $limit, $unwind, $filter, $skip, etc)
+
+
+**/Projects/**
+
+1-> Working with MongoDB, Nodejs Driver (How to perform CRUD operations in real life Project)
+2-> Working with MongoDB and Node.js
+
+
+
